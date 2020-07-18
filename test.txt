@@ -2,6 +2,11 @@ My second txt
 第二个文件添加内容
 pr5
 h4
+w1
+w2
 n1
 n2
 9
+5
+6
+
